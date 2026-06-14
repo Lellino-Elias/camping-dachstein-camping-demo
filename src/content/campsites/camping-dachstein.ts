@@ -80,7 +80,7 @@ const campingDachstein: CampsiteConfig = {
     features: [
       {
         title: "Stellplätze mit Bergblick",
-        text: "Die Plätze liegen in Südlage auf dem Plateau — morgens die Sonne, ringsum die Berge. Zehn der rund 30 Plätze sind besonders großzügig geschnitten.",
+        text: "Die Plätze liegen in Südlage auf dem Plateau — morgens die Sonne, ringsum die Berge, zehn davon besonders großzügig.",
         image: { src: `${IMG}/camp-stellplatz.webp`, alt: "Wohnwagen am Stellplatz mit Blick ins Tal und auf die Berge" },
       },
       {
@@ -100,12 +100,12 @@ const campingDachstein: CampsiteConfig = {
       },
       {
         title: "Hunde willkommen",
-        text: "Dein Hund darf mit (gegen Gebühr, max. zwei). Inge und Niels sind selbst mit zwei Border Collies unterwegs und kennen die schönsten Runden.",
+        text: "Hunde willkommen (gegen Gebühr, max. zwei) — Inge und Niels sind selbst mit Border Collies unterwegs.",
         image: { src: `${IMG}/camp-hund.webp`, alt: "Gastgeber mit Border Collie auf einer Almwiese vor den Dachsteinfelsen" },
       },
       {
         title: "Echte Wiese, ruhige Lage",
-        text: "Gezeltet wird auf gepflegtem Gras: Autos parken am Rand, damit Kinder frei spielen und die Zelte trocken stehen — klein, ruhig und naturnah.",
+        text: "Gezeltet wird auf gepflegtem Gras, Autos parken am Rand — so haben Kinder Platz und Zelte stehen trocken.",
         image: { src: `${IMG}/camp-zelt.webp`, alt: "Zelte mit Sonnensegel auf der Campingwiese vor den Bergen" },
       },
     ],
@@ -119,7 +119,7 @@ const campingDachstein: CampsiteConfig = {
       {
         name: "Appartement",
         kind: "Ferienwohnung",
-        text: "Wohnzimmer mit kleiner Küche, separates Schlafzimmer, eigenes Bad und Südbalkon — inklusive Schladming-Dachstein Card, WLAN und gratis Parken.",
+        text: "Wohnzimmer mit kleiner Küche, Schlafzimmer, Bad und Südbalkon — inklusive Schladming-Dachstein Card und WLAN.",
         image: { src: `${IMG}/pension-appartement.webp`, alt: "Wohnzimmer des Appartements mit Balkon und Bergblick" },
         features: ["Eigene Küche", "Südbalkon", "1. Stock"],
       },
@@ -152,7 +152,7 @@ const campingDachstein: CampsiteConfig = {
       },
       {
         title: "Mountainbiken",
-        text: "Bikestrecken beginnen wenige Gehminuten vom Platz. Ski- und Bikeraum sowie ein Abspülplatz für die Räder stehen in der Pension bereit.",
+        text: "Bikestrecken starten wenige Gehminuten vom Platz; Ski- und Bikeraum sowie ein Abspülplatz sind in der Pension.",
         image: { src: `${IMG}/aktiv-bike.webp`, alt: "Mountainbikerin vor einer Almhütte und den Dachsteinfelsen" },
       },
       {
