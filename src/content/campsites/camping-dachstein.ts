@@ -91,7 +91,7 @@ const campingDachstein: CampsiteConfig = {
       {
         title: "Renovierter Sanitärraum",
         text: "Der Sanitärraum ist frisch renoviert und hat im Winter Fußbodenheizung — warmes Wasser, Duschen und Müllentsorgung sind inklusive.",
-        image: { src: `${IMG}/camp-sanitaer.webp`, alt: "Eingang zum renovierten Sanitärgebäude am Campingplatz" },
+        image: { src: `${IMG}/camp-sanitaer-innen.webp`, alt: "Renovierter Sanitärraum mit Duschen und Waschbecken am Campingplatz" },
       },
       {
         title: "Spielplatz & Kletterturm",
